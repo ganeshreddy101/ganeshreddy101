@@ -44,6 +44,7 @@ I enjoy turning complex problems into production-ready AI solutions—from docum
 ### 🚧 Currently Building
 
 AI-Powered Job Aggregator with Intelligent Job Matching using LLMs, web scraping, automation, and modern GenAI frameworks.
+
 ---
 
 *"Building AI that is practical, reliable, and impactful."*
