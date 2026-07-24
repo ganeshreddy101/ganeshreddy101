@@ -23,7 +23,6 @@ I enjoy turning complex problems into production-ready AI solutions—from docum
 ### 🚀 What I work with
 
 * Python
-* FastAPI
 * LangChain
 * Llama 3.3
 * FAISS
