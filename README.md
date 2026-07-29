@@ -38,7 +38,7 @@ I enjoy turning complex problems into production-ready AI solutions—from docum
 
 * **AI Compliance Intelligence Platform** – An enterprise-style RAG system that answers questions from AI governance and regulatory documents using hybrid retrieval, re-ranking, and citation-based responses.
 * **AI Compliance Assistant** – An intelligent document Q&A application that enables users to interact with compliance PDFs using LLMs and semantic search.
-* **E Commerce Recommendation** – A full-stack sports tournament management platform
+* **E Commerce Recommendation** – Built an ML-powered e-commerce recommendation system using a dataset of 7.8M+ user-product interactions to deliver personalized product recommendations. 
 
 ### 🚧 Currently Building
 
