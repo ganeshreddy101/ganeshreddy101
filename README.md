@@ -20,6 +20,11 @@ Aspiring **AI Engineer** with 1+ year of combined experience in Software Enginee
 
 I enjoy turning complex problems into production-ready AI solutions—from document intelligence and compliance assistants to full-stack AI applications. My work combines backend development, data processing, information retrieval, and intuitive user interfaces to create systems that are both accurate and useful.
 
+
+### 🌐 Portfolio
+https://portfolio.karedlaganeshreddy.workers.dev/?utm_source=chatgpt.com
+
+
 ### 🚀 What I work with
 
 * Python
@@ -39,10 +44,6 @@ I enjoy turning complex problems into production-ready AI solutions—from docum
 * **AI Compliance Intelligence Platform** – An enterprise-style RAG system that answers questions from AI governance and regulatory documents using hybrid retrieval, re-ranking, and citation-based responses.
 * **AI Compliance Assistant** – An intelligent document Q&A application that enables users to interact with compliance PDFs using LLMs and semantic search.
 * **E Commerce Recommendation** – Built an ML-powered e-commerce recommendation system using a dataset of 7.8M+ user-product interactions to deliver personalized product recommendations. 
-
-### 🚧 Currently Building
-
-AI-Powered Job Aggregator with Intelligent Job Matching using LLMs, web scraping, automation, and modern GenAI frameworks.
 
 ---
 
