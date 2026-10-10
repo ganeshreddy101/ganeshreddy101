@@ -22,8 +22,7 @@ I enjoy turning complex problems into production-ready AI solutions—from docum
 
 
 ### 🌐 Portfolio
-https://portfolio.karedlaganeshreddy.workers.dev/?utm_source=chatgpt.com
-
+[🌐 View My Portfolio](https://portfolio.karedlaganeshreddy.workers.dev/)
 
 ### 🚀 What I work with
 
